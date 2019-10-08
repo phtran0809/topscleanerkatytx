@@ -34,7 +34,26 @@
             <h2 class="title">Who we are?</h2>
             <h5
               class="description"
-            >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</h5>
+            >
+              Family-owned and operated and committed to excellence in quality and customer service, and we strive to be the best dry cleaners in Katy, TX.
+              Our dry cleaning services include fine garment cleaning, executive shirt laundering, clothing repair, clothing alterations, express bag service,
+              leather and suede cleaning, comforter cleaning, linen cleaning. We are Eco-Friendly and Use only the finest Green Earth Chemicals.
+            
+            </h5>
+            <h2 class="title">ECO FRIENDLY</h2>
+            <h5
+              class="description"
+              style="text-align:left"
+            >
+              We are committed to the environment.
+              <ul>
+                <li>No use of harmful toxic chemicals</li>
+                <li>Safe for you and your family</li>
+                <li>Safe for the environment</li>
+                <li>EPA approved Garments look cleaner, last longer,  feel softer, look brighter and smell fresher</li>
+                <li>No allergic reactions</li>
+              </ul>
+            </h5>
           </div>
         </div>
       </div>
@@ -61,9 +80,14 @@
         <h2 class="title">Here is our services</h2>
         <div class="team">
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-12">
               <div class="team-player">
                 <h4 class="title">Dry Cleaning</h4>
+                <h5 class="description"> 
+                  Your garments deserve the best care, which is exactly what you'll receive when you take your dry cleaning Tops Cleaners.
+                  You can rest assured that we will handle your laundry as if it were our own, using the best possible solution for stain
+                   removal and ensuring that every technique used is appropriate for the fabric.
+                </h5>
                 <div class="price-table">
                   <table class="table">
                     <tbody>
@@ -76,9 +100,15 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-12">
               <div class="team-player">
                 <h4 class="title">Laundry</h4>
+                <h5 class="description"> 
+                  You can feel confident each time you put a shirt cleaned by our team! At Tops Cleaners we have taken shirt laundering to a 
+                  higher level with care precision and meticulous attention to detail. Each shirt is inspected prior to laundering and 
+                  processed based on the fabric type and construction. Stains are pre-treated and the shirts are gently laundered. Our final
+                  inspection consists of pressing and hand ironing leaving the shirt looking sharp and as good as new.
+                </h5>
                 <div class="price-table">
                   <table class="table">
                     <tbody>
