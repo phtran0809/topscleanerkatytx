@@ -4,7 +4,7 @@
         <h2 class="title">Our Gallery</h2>
       <div class="row justify-content-center">
         <div class="col-8">
-          <el-carousel height="500px">
+          <el-carousel >
             <el-carousel-item>
               <img class="d-block" src="img/pic/IMG_0173.jpg" alt="First slide" />
               
