@@ -17,7 +17,7 @@
           </h4>
           <h4>
             <a class="nav-link" href="#deals" style="color:white">
-              <i class="now-ui-icons location_map-big"></i> Current Deals
+              Current Deals
             </a>
           </h4>
         </div>
