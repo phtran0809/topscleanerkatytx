@@ -25,12 +25,12 @@
               </div>
             </el-carousel-item>
             <el-carousel-item>
-              <img class="d-block" src="img/pic/IMG_0193.jpg" alt="5th slide" />
+              <img class="d-block" src="img/pic/IMG_0193.JPG" alt="5th slide" />
               <div class="carousel-caption d-none d-md-block">
               </div>
             </el-carousel-item>
             <el-carousel-item>
-              <img class="d-block" src="img/pic/IMG_0194.jpg" alt="Third slide" />
+              <img class="d-block" src="img/pic/IMG_0194.JPG" alt="Third slide" />
               <div class="carousel-caption d-none d-md-block">
               </div>
             </el-carousel-item>
