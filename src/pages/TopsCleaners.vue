@@ -15,6 +15,11 @@
               <i class="now-ui-icons location_map-big"></i> 23106 Cinco Ranch Blvd, Katy, TX 77494
             </a>
           </h4>
+          <h4>
+            <a class="nav-link" href="#deals" style="color:white">
+              <i class="now-ui-icons location_map-big"></i> Current Deals
+            </a>
+          </h4>
         </div>
       </div>
     </div>
@@ -49,23 +54,27 @@
         </div>
       </div>
     </div>
-    <!-- <div class="section section-promotion text-center">
+    <div class="section section-promotion text-center" id="deals">
       <div class="container">
         <h2 class="title">Current Promotions</h2>
         <div class='promotion'>
           <div class='row'>
-             <div class="col-md-4">
+             <div class="col-md-12 promotion-card">
               <div class="team-player">
-                <h4 class="title">Comforter</h4>
+                <h3 class="title">20% OFF</h3>
+                <hr>
                 <div class="coupon-body">
-                  $3 OFF
+                  <h3>NEW CUSTOMER DISCOUNT</h3>
+                  <p> 20% off Your First Dry Cleaning Order</p>
+                  <p><small>*Please mentioned this to our customer service</small></p>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
+    <carousel-section></carousel-section>
     <div class="section section-team text-center">
       <div class="container">
         <h2 class="title">Here is our services</h2>
@@ -147,13 +156,15 @@
 <script>
 import { Button, FormGroupInput } from "@/components";
 import LocatorMap from "./components/LocatorMap.vue";
+import CarouselSection from './components/CarouselSection';
 export default {
   name: "TopsCleaners",
   bodyClass: "landing-page",
   components: {
     [Button.name]: Button,
     [FormGroupInput.name]: FormGroupInput,
-    LocatorMap
+    LocatorMap,
+    CarouselSection,
   },
   data() {
     return {
