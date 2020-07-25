@@ -23,7 +23,7 @@ a{
 h1, .h1 {
     font-size: $font-size-h1;
     line-height: 1.15;
-    margin-bottom: $margin-base-vertical * 2;
+    margin-bottom: 5px;
 
     small{
         font-weight: $font-weight-bold;
@@ -33,18 +33,18 @@ h1, .h1 {
 }
 h2, .h2{
     font-size: $font-size-h2;
-    margin-bottom: $margin-base-vertical * 2;
+    margin-bottom: 5px;
 }
 h3, .h3{
     font-size: $font-size-h3;
-    margin-bottom: $margin-base-vertical * 2;
+    margin-bottom: 5px;
     line-height: 1.4em;
 }
 h4, .h4{
     font-size: $font-size-h4;
     line-height: 1.45em;
     margin-top: $margin-base-vertical * 2;
-    margin-bottom: $margin-base-vertical;
+    margin-bottom: 5px;
 
     & + .category,
     &.title + .category{
@@ -54,7 +54,7 @@ h4, .h4{
 h5, .h5 {
     font-size: $font-size-h5;
     line-height: 1.4em;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 
     &.category{
         font-weight: 400;
@@ -67,13 +67,13 @@ h6, .h6{
 }
 p{
     line-height: 1.61em;
-    font-weight: 300;
+    font-weight: $font-weight-normal;
     font-size: 1.2em;
 }
 
 .title{
     font-weight: $font-weight-bold;
-    padding-top: 30px;
+    padding-top: 5px;
 
 
     &.title-up{
@@ -93,7 +93,7 @@ p{
 .card-description,
 .footer-big p{
     color: $dark-gray;
-    font-weight: $font-weight-light;
+    font-weight: $font-weight-normal;
 }
 .category{
     text-transform: capitalize;

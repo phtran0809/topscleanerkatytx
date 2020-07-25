@@ -65,3 +65,25 @@
 @import "now-ui-kit/element-ui-plugins/input";
 @import "now-ui-kit/element-ui-plugins/tooltip";
 @import "now-ui-kit/element-ui-plugins/popover";
+
+.promotion-card{
+    border: dotted 1px #4977ac;
+    hr{
+        background-color: #4977ac;
+        border: none;
+        height: 1px;
+    }
+    h3{
+        color:#4977ac ;
+    }
+}
+#location{
+    .title{
+        margin-bottom: 15px;
+    }
+}
+#carousel{
+    .title{
+        text-align: center;
+    }
+}
