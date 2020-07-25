@@ -15,15 +15,6 @@
               <i class="now-ui-icons location_map-big"></i> 23106 Cinco Ranch Blvd, Katy, TX 77494
             </a>
           </h4>
-
-          <div class="text-center">
-            <a href="#" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-facebook-square"></i>
-            </a>
-            <a href="#" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </div>
         </div>
       </div>
     </div>
