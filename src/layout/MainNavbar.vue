@@ -42,6 +42,14 @@
           <p>Hours</p>
         </a>
       </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#deals"
+        >
+          <p>Deals</p>
+        </a>
+      </li>
       <!-- <drop-down
         tag="li"
         title="Components"
