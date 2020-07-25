@@ -8,7 +8,7 @@
   >
     <template slot-scope="{ toggle, isToggled }">
       <router-link v-popover:popover1 class="navbar-brand" to="/">
-        Tops Cleaner
+        <img class="logo" src="img/logo-name.png" alt="Tops Cleaners" />
       </router-link>
       <!-- <el-popover
         ref="popover1"
